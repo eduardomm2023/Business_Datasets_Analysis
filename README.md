@@ -1,5 +1,8 @@
 # Analisys_Business_Datasets
-![](business2.jfif)
+<p align = "center">
+  <img src = "business2.jfif">
+</p>
+
 # En este repositorio iré subiendo ejercicios resueltos de análisis de datos relacionados con el ÁMBITO de los NEGOCIOS y las FINANZAS.
 # https://www.kaggle.com/datasets?search=business
 ![](kaggle.png)
