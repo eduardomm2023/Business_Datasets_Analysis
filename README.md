@@ -1,4 +1,4 @@
-# Analisys_Business_Datasets
+# Business_Datasets_Analysis
 <p align = "center">
   <img src = "business2.jfif">
 </p>
